@@ -347,9 +347,8 @@ curl -X POST http://localhost:8080/api/reviews \
 ## 📝 Información de Evaluación
 
 ### Branch y Commit
-- **Branch evaluado**: `main` / `master`
-- **Commit final**: `[Insertar hash del commit final aquí]`
-- **Fecha de entrega**: Enero 2025
+- **Branch evaluado**: `main`
+- **Commit final**: `a34693c6e9cdbddca71b38c4c48705038e7c2ed8`
 
 ### Funcionalidades Implementadas
 ✅ **Backend Symfony 6.4**:
