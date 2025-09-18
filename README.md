@@ -148,7 +148,7 @@ curl -X POST http://localhost:8080/api/reviews \
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nupan1024/books-projects.git
    cd books-project
    ```
 
