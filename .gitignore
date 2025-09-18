@@ -1,0 +1,60 @@
+###> symfony/framework-bundle ###
+/.env
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+
+/var/data.db
+
+.phpunit.result.cache
+/phpunit.xml
+
+###> frontend ###
+/frontend/dist/
+/frontend/node_modules/
+/frontend/.env
+/frontend/.env.local
+###< frontend ###
+
+###> docker ###
+/docker-compose.override.yml
+###< docker ###
+
+###> IDE ###
+/.idea/
+/.vscode/
+*.swp
+*.swo
+*~
+###< IDE ###
+
+###> OS ###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+###< OS ###
+
+###> logs ###
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+###< logs ###
+
+###> temporary files ###
+*.tmp
+*.temp
+###< temporary files ###
+
+###> backup files ###
+*.bak
+*.backup
+###< backup files ###
