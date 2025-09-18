@@ -217,13 +217,6 @@ GROUP BY b.id
 - ✅ Validación de rating entre 1-5
 - ✅ Validación de comentario no vacío
 
-### **Eliminaciones realizadas:**
-- ❌ Todos los demás endpoints de BookController
-- ❌ Todos los demás endpoints de ReviewController  
-- ❌ Servicios complejos no utilizados
-- ❌ Serialización con grupos no necesaria
-- ❌ Paginación no requerida
-- ❌ Endpoints de búsqueda, filtrado, estadísticas, etc.
 
 ## 🚀 **Para Probar los Endpoints**
 
